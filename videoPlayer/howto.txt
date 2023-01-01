@@ -1,0 +1,2 @@
+flet player
+# quit with Ctrl + Ctrl
